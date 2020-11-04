@@ -1,4 +1,4 @@
-## Angular Starter with Webpack and Typescript
+## AngularJs(1.8) Starter with Webpack and Typescript
 
 #### To get started, clone the repo and run `npm install`.
 
